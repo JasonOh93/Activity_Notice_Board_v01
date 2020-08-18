@@ -1,0 +1,2 @@
+rootProject.name='Activity_Notice_Board_v01'
+include ':app'
